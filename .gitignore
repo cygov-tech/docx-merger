@@ -2,5 +2,6 @@ node_modules/
 .idea/
 *.zip
 .vscode/
+.history/
 dist/
 package-lock.json
